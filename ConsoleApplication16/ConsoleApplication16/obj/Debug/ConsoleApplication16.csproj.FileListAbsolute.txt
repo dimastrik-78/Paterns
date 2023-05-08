@@ -1,0 +1,7 @@
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csproj.AssemblyReference.cache
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csproj.SuggestedBindingRedirects.cache
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.csproj.CoreCompileInputs.cache
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+C:\zWork\C#\ConsoleApplication16\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
